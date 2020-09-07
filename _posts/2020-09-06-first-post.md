@@ -9,3 +9,4 @@ categories: jekyll update
 지금 이 파일 만들면서 만든 '_posts' 디렉토리에 마크다운 문서를 작성하면 지킬이 블로그 포스트로 인식한다!
 파일이름은 상관없지만 일반적으로 ₩₩₩YYYY-MM-DD-name-of-post.md```형식으로 짓는다
 
+블라블라
